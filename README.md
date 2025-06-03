@@ -6,3 +6,6 @@
 
 #### ***Client Sequence Diagram***
 ![Use case uml diagram](./uml/client-sequence.jpg)
+
+#### ***Admin Sequence Diagram***
+![Use case uml diagram](./uml/admin-SD.jpg)
