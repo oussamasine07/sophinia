@@ -7,7 +7,7 @@ import java.time.LocalDate;
 
 @Entity
 @Table(name = "availabilities")
-public class Avialability {
+public class Availability {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -19,7 +19,7 @@ public class Avialability {
     @Column(name = "to")
     private LocalDate to;
 
-    public Avialability () {}
+    public Availability() {}
 
     // TODO add relationships
 
